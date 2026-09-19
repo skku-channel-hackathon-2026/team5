@@ -95,15 +95,15 @@ flutter build apk --release
 
 ## 파일 설명 — 어디를 고치면 되나요?
 
-| 바꾸고 싶은 것 | 파일 |
-| --- | --- |
-| 학교·학과·단대 공지 HTML 파서, 아이캠퍼스/에타 예시 JSON | `lib/feeds.dart`, `assets/feeds/` |
-| 색깔, 글꼴, 아이콘 | `lib/theme.dart` (`Pal.light` / `Pal.dark`) |
-| 버튼을 눌렀을 때 일어나는 일, 예시 일정, 알림 문구 | `lib/state.dart` |
-| 공통 부품(버튼, 칩, 카드, 스크롤 선택) | `lib/widgets.dart` |
-| 아래에서 올라오는 창(일정 추가, 알림, 밥약 상세, 과팅 신청 …) | `lib/sheets.dart` |
-| 화면 뼈대, 배너, 받는 사람 화면 | `lib/shell.dart` |
-| 화면들 | `lib/screens/` — `onboarding`(로그인·가입·관심사) · `home`(메인·내 약속·내 정보) · `calendar` · `reco` · `social`(밥약·과팅·놀기) |
+| 바꾸고 싶은 것                                                | 파일                                                                                                                              |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 학교·학과·단대 공지 HTML 파서, 아이캠퍼스/에타 예시 JSON      | `lib/feeds.dart`, `assets/feeds/`                                                                                                 |
+| 색깔, 글꼴, 아이콘                                            | `lib/theme.dart` (`Pal.light` / `Pal.dark`)                                                                                       |
+| 버튼을 눌렀을 때 일어나는 일, 예시 일정, 알림 문구            | `lib/state.dart`                                                                                                                  |
+| 공통 부품(버튼, 칩, 카드, 스크롤 선택)                        | `lib/widgets.dart`                                                                                                                |
+| 아래에서 올라오는 창(일정 추가, 알림, 밥약 상세, 과팅 신청 …) | `lib/sheets.dart`                                                                                                                 |
+| 화면 뼈대, 배너, 받는 사람 화면                               | `lib/shell.dart`                                                                                                                  |
+| 화면들                                                        | `lib/screens/` — `onboarding`(로그인·가입·관심사) · `home`(메인·내 약속·내 정보) · `calendar` · `reco` · `social`(밥약·과팅·놀기) |
 
 ## 알아두세요
 
