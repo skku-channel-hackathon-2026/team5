@@ -1,0 +1,151 @@
+{
+  "sourceId": "college",
+  "loginRequired": false,
+  "audience": "undergrad",
+  "items": [
+    {
+      "id": "225664",
+      "title": "2026 산업계 대학교육 혁신포럼",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=225664",
+      "posted": "2026-09-16",
+      "categoryRaw": "행사/세미나",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225638",
+      "title": "2026-2학기 소프트웨어학과 진학설명회 안내 (9/30(목) 18:00 / 사전접수 : 9/18(금))",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=225638",
+      "posted": "2026-09-16",
+      "categoryRaw": "행사/세미나",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225524",
+      "title": "[현대자동차그룹] 현대자동차그룹 HINT 2기 교육생 모집",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=225524",
+      "posted": "2026-09-15",
+      "categoryRaw": "행사/세미나",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225382",
+      "title": "(9월 29일(화)/여의도 FKI타워) 대한민국 클라우드/SaaS 포럼 2026",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=225382",
+      "posted": "2026-09-11",
+      "categoryRaw": "행사/세미나",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225364",
+      "title": "(9/14(월) 12:00-13:30 2공학관 26106호) 한화시스템 방산부문 채용설명회",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=225364",
+      "posted": "2026-09-11",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "224977",
+      "title": "2026년 산학협력프로젝트 유형2 심화 AI R&D 하반기 최종 선발자 및 Kick Off 일정 안내",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=224977",
+      "posted": "2026-09-07",
+      "categoryRaw": "",
+      "board": "학부 공지"
+    },
+    {
+      "id": "224897",
+      "title": "[AI중심대학사업단]SSA(SungKyun Software Assistant) 연구 인력 모집 안내",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=224897",
+      "posted": "2026-09-04",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "224667",
+      "title": "[AI중심대학사업단][AX SW특강] 대규모 멀티모달 모델(LMM) 살펴보기",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=224667",
+      "posted": "2026-09-02",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "224665",
+      "title": "[장소변경안내] 2026년 인턴 및 취업 준비 특강 모집 (85718호)",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=224665",
+      "posted": "2026-09-02",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "224654",
+      "title": "[PwC컨설팅 및 Strategy&] 2026년 신입 컨설턴트 공채",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=224654",
+      "posted": "2026-09-02",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "224456",
+      "title": "[롯데지주] 밸유 for ESG 5기 대학생 봉사단 모집",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=224456",
+      "posted": "2026-08-31",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "224021",
+      "title": "[학생인재개발팀/대학일자리플러스센터] 2026학년도 2학기 진로·취업지원 프로그램 시행 안내",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=224021",
+      "posted": "2026-08-25",
+      "categoryRaw": "취업",
+      "board": "학부 공지"
+    },
+    {
+      "id": "224003",
+      "title": "2026년 산학협력프로젝트 유형2 심화 AI R&D 하반기 모집 안내",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=224003",
+      "posted": "2026-08-25",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "223883",
+      "title": "[AI중심대학사업단] 글로벌 IT전문가와 킹고인의 만남 시즌2 여든두 번째 만남 (8/26, 수, 12시)",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=223883",
+      "posted": "2026-08-24",
+      "categoryRaw": "행사/세미나",
+      "board": "학부 공지"
+    },
+    {
+      "id": "223741",
+      "title": "2026 2차 AI 기반창업 START業 Forum 참가 신청",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=223741",
+      "posted": "2026-08-21",
+      "categoryRaw": "행사/세미나",
+      "board": "학부 공지"
+    },
+    {
+      "id": "223491",
+      "title": "[특강] AI를 활용한 학술 논문 작성 워크플로 생산성 10x배 개선하기 (8/28, 금 14시)",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=223491",
+      "posted": "2026-08-14",
+      "categoryRaw": "행사/세미나",
+      "board": "학부 공지"
+    },
+    {
+      "id": "223047",
+      "title": "한국관광 데이터랩 활용 경진대회 모집 안내",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=223047",
+      "posted": "2026-08-05",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "222901",
+      "title": "2026년 6기 미래내일 일경험(인턴십) IT 직무 참여자 모집 안내",
+      "url": "https://sw.skku.edu/sw/notice.do?mode=view&articleNo=222901",
+      "posted": "2026-08-03",
+      "categoryRaw": "행사/세미나",
+      "board": "학부 공지"
+    }
+  ]
+}

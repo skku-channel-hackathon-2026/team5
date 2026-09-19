@@ -1,0 +1,7 @@
+# 기본 분석만 켭니다. flutter_lints는 의존성에 넣지 않았어요.
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - web/**

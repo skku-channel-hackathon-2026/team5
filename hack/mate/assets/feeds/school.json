@@ -1,0 +1,111 @@
+{
+  "sourceId": "school",
+  "loginRequired": false,
+  "audience": "undergrad",
+  "items": [
+    {
+      "id": "139983",
+      "title": "SACP 2027 연례 학술대회 발표자 모집 (Call for Proposals)",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=139983",
+      "posted": "2026-09-18",
+      "categoryRaw": "행사/세미나",
+      "board": "학교 공지"
+    },
+    {
+      "id": "139863",
+      "title": "[스타벅스 기프티콘 증정] 2026년 학생성공역량 및 학습경험 설문조사 안내(~10/7)",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=139863",
+      "posted": "2026-09-18",
+      "categoryRaw": "채용/모집",
+      "board": "학교 공지"
+    },
+    {
+      "id": "139779",
+      "title": "[인사캠] 법학전문대학원행정실 서류접수 단기 근로학생 모집(마감)",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=139779",
+      "posted": "2026-09-18",
+      "categoryRaw": "채용/모집",
+      "board": "학교 공지"
+    },
+    {
+      "id": "139686",
+      "title": "[앵커사업단] 제2회 Global Livinglab : AI × Traffic System 참가팀 모집(~9/27, 우수팀 태국탐방)",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=139686",
+      "posted": "2026-09-18",
+      "categoryRaw": "채용/모집",
+      "board": "학교 공지"
+    },
+    {
+      "id": "139949",
+      "title": "*자바칩 프라푸치노 기프티콘* 비교과 프로그램 참여 후기 조사 (~10/12)",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=139949",
+      "posted": "2026-09-18",
+      "categoryRaw": "행사/세미나",
+      "board": "학교 공지"
+    },
+    {
+      "id": "140039",
+      "title": "2026년 하반기 (재)춘천시민장학재단 봄내장학생 선발안내",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=140039",
+      "posted": "2026-09-18",
+      "categoryRaw": "",
+      "board": "학교 장학"
+    },
+    {
+      "id": "139364",
+      "title": "[한국장학재단] 2026학년도 2학기 고졸 후학습자(희망사다리2유형) 장학금 신청 안내(신청 기간 연장)",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139364",
+      "posted": "2026-09-18",
+      "categoryRaw": "",
+      "board": "학교 장학"
+    },
+    {
+      "id": "139996",
+      "title": "2026학년도 하반기 문주장학재단 AI·ICT 인재 장학생 모집 안내",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139996",
+      "posted": "2026-09-17",
+      "categoryRaw": "",
+      "board": "학교 장학"
+    },
+    {
+      "id": "139991",
+      "title": "[한국장학재단] 2026학년도 2학기 국가장학금(1유형/다자녀) 지급 안내",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139991",
+      "posted": "2026-09-17",
+      "categoryRaw": "",
+      "board": "학교 장학"
+    },
+    {
+      "id": "137221",
+      "title": "[공통] 장학금 수혜계좌 등록 안내",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=137221",
+      "posted": "2026-09-16",
+      "categoryRaw": "",
+      "board": "학교 장학"
+    },
+    {
+      "id": "135615",
+      "title": "[공지] 장학생 추천서 총장 직인 날인 신청 안내 (GLS 신청)",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=135615",
+      "posted": "2026-09-15",
+      "categoryRaw": "",
+      "board": "학교 장학"
+    },
+    {
+      "id": "139847",
+      "title": "[한국장학재단] 2026학년도 2학기 학생성공-디딤돌장학금2 지급 안내",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139847",
+      "posted": "2026-09-14",
+      "categoryRaw": "",
+      "board": "학교 장학"
+    },
+    {
+      "id": "139788",
+      "title": "2026년 고속도로장학재단 장학생 모집 안내",
+      "url": "https://www.skku.edu/skku/campus/skk_comm/notice06.do?mode=view&articleNo=139788",
+      "posted": "2026-09-11",
+      "categoryRaw": "",
+      "board": "학교 장학"
+    }
+  ]
+}

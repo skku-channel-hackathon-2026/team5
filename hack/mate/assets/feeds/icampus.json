@@ -1,0 +1,49 @@
+{
+  "sourceId": "icampus",
+  "loginRequired": true,
+  "note": "아이캠퍼스(LMS)는 킹고 SSO 로그인이 필요합니다. 공개 API가 없어서 MVP는 연동 후 받을 JSON과 같은 계약의 예시 시간표·과제를 씁니다.",
+  "items": [
+    {
+      "id": "ic-assign-ds2",
+      "title": "자료구조 과제 2",
+      "url": "https://icc.skku.edu",
+      "posted": "2026-09-21",
+      "categoryRaw": "과제",
+      "key": "9-21",
+      "t": "23:59",
+      "meta": "아이캠퍼스 · 마감",
+      "fields": ["개발·IT"]
+    },
+    {
+      "id": "ic-assign-eng",
+      "title": "영어 에세이",
+      "url": "https://icc.skku.edu",
+      "posted": "2026-09-21",
+      "categoryRaw": "과제",
+      "key": "9-21",
+      "t": "23:59",
+      "meta": "아이캠퍼스 · 마감",
+      "fields": []
+    },
+    {
+      "id": "ic-assign-logic",
+      "title": "논리회로 실험 보고서",
+      "url": "https://icc.skku.edu",
+      "posted": "2026-09-21",
+      "categoryRaw": "과제",
+      "key": "9-21",
+      "t": "23:59",
+      "meta": "아이캠퍼스 · 마감",
+      "fields": ["개발·IT"]
+    }
+  ],
+  "events": [
+    {"key": "9-21", "t": "09:00", "end": "10:15", "type": "class", "title": "자료구조", "sub": "아이캠퍼스에서 가져옴"},
+    {"key": "9-21", "t": "13:00", "end": "14:15", "type": "class", "title": "논리회로", "sub": "아이캠퍼스에서 가져옴"},
+    {"key": "9-22", "t": "10:30", "end": "12:00", "type": "class", "title": "프로그래밍 실습", "sub": "아이캠퍼스에서 가져옴"},
+    {"key": "9-23", "t": "09:00", "end": "10:15", "type": "class", "title": "자료구조", "sub": "아이캠퍼스에서 가져옴"},
+    {"key": "9-23", "t": "15:00", "end": "16:15", "type": "class", "title": "영어 회화", "sub": "아이캠퍼스에서 가져옴"},
+    {"key": "9-24", "t": "10:30", "end": "12:00", "type": "class", "title": "프로그래밍 실습", "sub": "아이캠퍼스에서 가져옴"},
+    {"key": "9-25", "t": "13:00", "end": "14:15", "type": "class", "title": "논리회로", "sub": "아이캠퍼스에서 가져옴"}
+  ]
+}

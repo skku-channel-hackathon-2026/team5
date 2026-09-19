@@ -1,0 +1,279 @@
+{
+  "sourceId": "dept",
+  "loginRequired": false,
+  "audience": "undergrad",
+  "items": [
+    {
+      "id": "224174",
+      "title": "[졸업평가] 연구논문작품 신청서 제출 방법 안내 (*대상자만 / 9.14월~9.27일)",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=224174",
+      "posted": "2026-08-26",
+      "categoryRaw": "학사",
+      "board": "학부 공지"
+    },
+    {
+      "id": "224173",
+      "title": "[졸업평가] 연구논문작품 서약서, 제안서 및 중간보고서 제출 안내 (*대상자만 / 9.14월~9.27일)",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=224173",
+      "posted": "2026-08-26",
+      "categoryRaw": "학사",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225778",
+      "title": "(주)플루빗 2026 신입 지상시스템 엔지니어 모집",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225778",
+      "posted": "2026-09-18",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225776",
+      "title": "2026 ICPC 대학생 프로그래밍 경시대회 안내",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225776",
+      "posted": "2026-09-18",
+      "categoryRaw": "행사/세미나",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225764",
+      "title": "(주)신세계아이앤씨 27년 신입사원 채용",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225764",
+      "posted": "2026-09-18",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225722",
+      "title": "[한국능률협회] 미래내일 IT 프로젝트 참여자 모집",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225722",
+      "posted": "2026-09-17",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225684",
+      "title": "2026 NC문화재단 프로젝토리 크루(인턴) 채용 공고 (~9/30)",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225684",
+      "posted": "2026-09-16",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225681",
+      "title": "[CJ제일제당] 2026 하반기 신입사원 모집 (~9/30)",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225681",
+      "posted": "2026-09-16",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225627",
+      "title": "[티맥스티베로] sysMasterDB프론트엔드 개발, DBaaS Backend 연구 및 개발, DB엔진 연구 및 개발 채용공고",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225627",
+      "posted": "2026-09-16",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225623",
+      "title": "[LIG D&A] 임베디드SW 스쿨 5기 모집 (~9/28(월))",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225623",
+      "posted": "2026-09-16",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225622",
+      "title": "[CJ올리브네트웍스] 고용노동부 K-뉴딜 아카데미(지역 기반 AI 서비스 기획 교육 과정) 모집",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225622",
+      "posted": "2026-09-16",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225620",
+      "title": "[학습 안내] 코드트리 양떼 목장 챌린지: 4주 코테 습관 만들기",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225620",
+      "posted": "2026-09-16",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225579",
+      "title": "[2026 산업AI EXPO] 관련학과생 무료 단체등록, 도슨트투어 신청 안내",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225579",
+      "posted": "2026-09-15",
+      "categoryRaw": "행사/세미나",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225577",
+      "title": "[한화오션] 2026 하반기 한화오션 신입사원 채용 (~9/30 23시 59분까지)",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225577",
+      "posted": "2026-09-15",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225574",
+      "title": "[현대모비스] 26년 하반기 로보틱스 집중 채용 (~9/29(화) 10:00)",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225574",
+      "posted": "2026-09-15",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225573",
+      "title": "[현대해상] 2026 현대해상 대졸 신입사원 채용(~9/21(월)까지)",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225573",
+      "posted": "2026-09-15",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225572",
+      "title": "[에스씨바이오] AI 신약개발 연구원(이미지/영상/데이터 분석) 채용공고",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225572",
+      "posted": "2026-09-15",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225571",
+      "title": "[메이크인] 국민취업지원제도 안내",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225571",
+      "posted": "2026-09-15",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225438",
+      "title": "[풍산그룹] 2026 신입사원 채용 및 본사 초청 채용설명회(사전신청 必)",
+      "url": "https://cse.skku.edu/cse/notice.do?mode=view&articleNo=225438",
+      "posted": "2026-09-14",
+      "categoryRaw": "채용/모집",
+      "board": "학부 공지"
+    },
+    {
+      "id": "225384",
+      "title": "[한화손보] 2026 하반기 신입사원 모집 (~9/28)",
+      "url": "https://cse.skku.edu/cse/notice_recruit.do?mode=view&articleNo=225384",
+      "posted": "2026-09-11",
+      "categoryRaw": "채용/모집",
+      "board": "학부연구생"
+    },
+    {
+      "id": "225356",
+      "title": "[미래차 부트캠프] 2026년 하반기 현대모비스-성균관대학교 미래모빌리티 채용연계 트랙 장학생 모집",
+      "url": "https://cse.skku.edu/cse/notice_recruit.do?mode=view&articleNo=225356",
+      "posted": "2026-09-11",
+      "categoryRaw": "채용/모집",
+      "board": "학부연구생"
+    },
+    {
+      "id": "225286",
+      "title": "[삼성전자 DX부문] 2026년 하반기 3급 신입사원",
+      "url": "https://cse.skku.edu/cse/notice_recruit.do?mode=view&articleNo=225286",
+      "posted": "2026-09-10",
+      "categoryRaw": "채용/모집",
+      "board": "학부연구생"
+    },
+    {
+      "id": "225259",
+      "title": "[한화에어로스페이스] 2026 하반기 대규모 신입사원 채용(~09.20(일) 23시 59분)",
+      "url": "https://cse.skku.edu/cse/notice_recruit.do?mode=view&articleNo=225259",
+      "posted": "2026-09-10",
+      "categoryRaw": "채용/모집",
+      "board": "학부연구생"
+    },
+    {
+      "id": "225249",
+      "title": "[한화시스템 방산부문] 성균관대학교 한화시스템 방산부문 채용설명회",
+      "url": "https://cse.skku.edu/cse/notice_recruit.do?mode=view&articleNo=225249",
+      "posted": "2026-09-10",
+      "categoryRaw": "채용/모집",
+      "board": "학부연구생"
+    },
+    {
+      "id": "225436",
+      "title": "[ICT콤플렉스] “코딩은 할 줄 아는데, 왜 개발자로 취업이 안 될까요?” 개발자 취업특강",
+      "url": "https://cse.skku.edu/cse/notice_senimar.do?mode=view&articleNo=225436",
+      "posted": "2026-09-14",
+      "categoryRaw": "행사/세미나",
+      "board": "공모전·대회"
+    },
+    {
+      "id": "225023",
+      "title": "2026-2학기 소프트웨어학과 진학설명회 안내 (9/30(목) 18:00 / 사전접수 : 9/18(금))",
+      "url": "https://cse.skku.edu/cse/notice_senimar.do?mode=view&articleNo=225023",
+      "posted": "2026-09-07",
+      "categoryRaw": "행사/세미나",
+      "board": "공모전·대회"
+    },
+    {
+      "id": "224691",
+      "title": "[AX SW특강] \"대규모 멀티모달 모델(LMM) 살펴보기\"",
+      "url": "https://cse.skku.edu/cse/notice_senimar.do?mode=view&articleNo=224691",
+      "posted": "2026-09-02",
+      "categoryRaw": "행사/세미나",
+      "board": "공모전·대회"
+    },
+    {
+      "id": "224336",
+      "title": "'SFS 2026 스마트 미래사회 컨퍼런스' 개최 안내",
+      "url": "https://cse.skku.edu/cse/notice_senimar.do?mode=view&articleNo=224336",
+      "posted": "2026-08-28",
+      "categoryRaw": "행사/세미나",
+      "board": "공모전·대회"
+    },
+    {
+      "id": "224197",
+      "title": "2026학년도 2학기 미래차 부트캠프 설명회(9/7(월), 15:00) 및 사전신청 안내",
+      "url": "https://cse.skku.edu/cse/notice_senimar.do?mode=view&articleNo=224197",
+      "posted": "2026-08-27",
+      "categoryRaw": "행사/세미나",
+      "board": "공모전·대회"
+    },
+    {
+      "id": "224059",
+      "title": "[온라인 초청 강연] Toward Autonomous Hacking: Reliable, Augmentable Methods for Reverse Engineering Software (9/9수 10:30)",
+      "url": "https://cse.skku.edu/cse/notice_senimar.do?mode=view&articleNo=224059",
+      "posted": "2026-08-26",
+      "categoryRaw": "행사/세미나",
+      "board": "공모전·대회"
+    },
+    {
+      "id": "223884",
+      "title": "[AI중심대학사업단] 글로벌 IT 전문가와 킹고인의 만남 시즌2 여든두번째 만남",
+      "url": "https://cse.skku.edu/cse/notice_senimar.do?mode=view&articleNo=223884",
+      "posted": "2026-08-24",
+      "categoryRaw": "행사/세미나",
+      "board": "공모전·대회"
+    },
+    {
+      "id": "223483",
+      "title": "[특강 안내] AI를 활용한 학술 논문 작성 워크플로 생산성 10x배 개선하기 (8/28금 14시, 85702호)",
+      "url": "https://cse.skku.edu/cse/notice_senimar.do?mode=view&articleNo=223483",
+      "posted": "2026-08-14",
+      "categoryRaw": "행사/세미나",
+      "board": "공모전·대회"
+    },
+    {
+      "id": "223423",
+      "title": "현대자동차-MathWorks 공동 세미나",
+      "url": "https://cse.skku.edu/cse/notice_senimar.do?mode=view&articleNo=223423",
+      "posted": "2026-08-13",
+      "categoryRaw": "행사/세미나",
+      "board": "공모전·대회"
+    },
+    {
+      "id": "223022",
+      "title": "2026년 여름 전체 학위수여식 개최 안내(2026년 8월 졸업자 대상)",
+      "url": "https://cse.skku.edu/cse/notice_senimar.do?mode=view&articleNo=223022",
+      "posted": "2026-08-05",
+      "categoryRaw": "행사/세미나",
+      "board": "공모전·대회"
+    }
+  ]
+}
